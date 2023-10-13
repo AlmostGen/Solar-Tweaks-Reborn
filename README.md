@@ -79,4 +79,3 @@ We would like to express our gratitude to the developers and contributors of the
 **Please note:** While this code is open-source, its usage may come with risks depending on your actions. Always respect software licenses and legal boundaries.
 
 For any questions or inquiries, feel free to contact us.
-```
