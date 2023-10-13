@@ -29,5 +29,5 @@ Please be aware that using this code comes with potential risks, depending on ho
 Download The Partial Source Code And Use For Your Own Purposes:
 
 1. Clone:
-   ```Bash
+   ```sh
    git clone https://github.com/AlmostGen/Solar-Tweaks-Reborn
