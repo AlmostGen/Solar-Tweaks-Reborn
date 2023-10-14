@@ -1,5 +1,6 @@
 # Solar Tweaks Reborn
 please refer to the [**`docs`**](https://github.com/AlmostGen/Solar-Tweaks-Reborn/tree/main/docs) for further documentation
+> 
 ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 **By AlmostGen**
